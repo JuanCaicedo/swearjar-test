@@ -2,6 +2,7 @@ import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
 import swearjar from "swearjar-extended";
+console.log("swearjar", swearjar);
 
 function App() {
   return (
