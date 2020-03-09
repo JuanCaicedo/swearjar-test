@@ -9,7 +9,7 @@
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0",
-    "swearjar-extended": "https://github.com/JuanCaicedo/swearjar-node.git#f481c6436aef6be91760838fcbc344824d708a63"
+    "swearjar-extended": "https://github.com/JuanCaicedo/swearjar-node.git#6a008442e2e2211f1fca0907f87cbe7e7686e5ac"
   },
   "scripts": {
     "start": "react-scripts start",
